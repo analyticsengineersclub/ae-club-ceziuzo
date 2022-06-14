@@ -1,1 +1,2 @@
-Analytics Engineers Club Chidinma's portfolio
+Analytics Engineers Club 
+Chidinma's portfolio
